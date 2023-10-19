@@ -1,0 +1,37 @@
+[
+  {
+    "name" : "Brat",
+    "year" : 1997,
+    "country" : "Russia",
+    "duration" : 100,
+    "kinopoisk" : 8.3
+  },
+  {
+    "name" : "Brat 2",
+    "year" : 2000,
+    "country" : "Russia",
+    "duration" : 127,
+    "kinopoisk" : 8.2
+  },
+  {
+    "name" : "Titanic",
+    "year" : 1997,
+    "country" : "Russia",
+    "duration" : 194,
+    "kinopoisk" : 8.4
+  },
+  {
+    "name" : "Otci i deti",
+    "year" : 1958,
+    "country" : "USSR",
+    "duration" :  103,
+    "kinopoisk" : 6.9
+  },
+  {
+    "name" : "Avatar",
+    "year" : 2009,
+    "country" : "USA",
+    "duration" : 162,
+    "kinopoisk" : 8
+  }
+]
